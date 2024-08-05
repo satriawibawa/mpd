@@ -15,7 +15,7 @@
         </SegmentTemplate>
       </Representation>
       <Representation id="1" bandwidth="716800" codecs="avc1.640028" mimeType="video/mp4" sar="45:44" width="640" height="360">
-        <SegmentTemplate timescale="90000" initialization="http://localhost:3000/https://cdnjkt4.transvision.co.id:1004/live/init/4028c6856c3db2cc016cdc51294b4f8e/700/init-stream1" media="https://cdnjkt4.transvision.co.id:1004/live/chunk/4028c6856c3db2cc016cdc51294b4f8e/700/chunk-stream1-$Number$" startNumber="2936">
+        <SegmentTemplate timescale="90000" initialization="https://cdnjkt4.transvision.co.id:1004/live/init/4028c6856c3db2cc016cdc51294b4f8e/700/init-stream1" media="https://cdnjkt4.transvision.co.id:1004/live/chunk/4028c6856c3db2cc016cdc51294b4f8e/700/chunk-stream1-$Number$" startNumber="2936">
           <SegmentTimeline>
             <S t="2113326000" d="720000" r="23"/>
           </SegmentTimeline>
@@ -29,7 +29,7 @@
       </ContentProtection>
       <Representation id="2" bandwidth="134379" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="48000">
         <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
-        <SegmentTemplate timescale="90000" initialization="http://localhost:3000/https://cdnjkt4.transvision.co.id:1004/live/init/4028c6856c3db2cc016cdc51294b4f8e/700/init-stream2" media="https://cdnjkt4.transvision.co.id:1004/live/chunk/4028c6856c3db2cc016cdc51294b4f8e/eng/chunk-stream2-$Number$" startNumber="2937">
+        <SegmentTemplate timescale="90000" initialization="https://cdnjkt4.transvision.co.id:1004/live/init/4028c6856c3db2cc016cdc51294b4f8e/700/init-stream2" media="https://cdnjkt4.transvision.co.id:1004/live/chunk/4028c6856c3db2cc016cdc51294b4f8e/eng/chunk-stream2-$Number$" startNumber="2937">
           <SegmentTimeline>
             <S t="2113921200" d="720000" r="23"/>
           </SegmentTimeline>
