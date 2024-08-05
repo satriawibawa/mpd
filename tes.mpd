@@ -8,7 +8,7 @@
         <cenc:pssh>AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEDhYNTAzNUt3cE9GVHVUd01I88aJmwY=</cenc:pssh>
       </ContentProtection>
       <Representation id="0" bandwidth="1024000" codecs="avc1.640028" mimeType="video/mp4" sar="45:44" width="864" height="486">
-        <SegmentTemplate timescale="90000" initialization="http://localhost:3000/https://cdnjkt4.transvision.co.id:1004/live/init/4028c6856c3db2cc016cdc51294b4f8e/700/init-stream0" media="https://cdnjkt4.transvision.co.id:1004/live/chunk/4028c6856c3db2cc016cdc51294b4f8e/1000/chunk-stream0-$Number$" startNumber="2936">
+        <SegmentTemplate timescale="90000" initialization="https://cdnjkt4.transvision.co.id:1004/live/init/4028c6856c3db2cc016cdc51294b4f8e/700/init-stream0" media="https://cdnjkt4.transvision.co.id:1004/live/chunk/4028c6856c3db2cc016cdc51294b4f8e/1000/chunk-stream0-$Number$" startNumber="2936">
           <SegmentTimeline>
             <S t="2113326000" d="720000" r="23"/>
           </SegmentTimeline>
